@@ -8,7 +8,7 @@ We need to :
 
 2) Choose two of the scenarios and carry out manual testing on these. Write up a test 
 
-3) Choose two of the scenarios and write automated tests for these in the 
+3) Choose two of the scenarios and write automated tests.
 
 
 ## My answers : 
