@@ -25,14 +25,17 @@ We need to :
 In order to use the Cypress testing framework, we need to open Cypress browser environment with the following command : 
 
 ```
-node_modules/.bin/cypress open
+npm test
 ```
 
-A browser will be displayed with the tests that are written under the integration/login_spec.js testing file 
+The special Cypress browser will open up with the tests that are written under the integration/login_spec.js file 
 
-On the cypress testing browser, please click on "Run all specs" in order to run all the tests. 
+On the cypress testing browser, please click on "Run all specs" in order to run all the tests. Screenshot below : 
 
 
+![](cypress/images/cypress_screenshot.png)
+
+Then you should see the cypress browser environment reproduce every single step detailed under the integration/login_spec.js file 
 
 
 
